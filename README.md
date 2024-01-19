@@ -1,9 +1,9 @@
 ```yaml
 nick: Bek
 from: Tashkent
-education: "Najot Ta'lim" _Java backend_
+education: "Najot Ta'lim" Java backend
 
-job: `Java Developer`
+job: Java Developer
 ```
 
 # 📫 Links:
