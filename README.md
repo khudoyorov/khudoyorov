@@ -2,11 +2,10 @@
 nick: Bek
 from: Tashkent
 education: "Najot Ta'lim" _Java backend_
-```
 
-```yaml
 job: `Java Developer`
-I work in **SmartsSoftware** company
 ```
-
-
+## 📫 How to reach me: 
+* Mail: tarqymuhammadal@gmail.com
+* Telegram: https://t.me/theal1eev
+* Linkedin: https://www.linkedin.com/in/salohiddintojiyev/
