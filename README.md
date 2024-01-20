@@ -3,7 +3,7 @@ nick: Bek
 from: Tashkent
 education: "Najot Ta'lim" Java backend
 
-job: Java Developer
+job: Java Software Engineer
 ```
 
 
