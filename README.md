@@ -1,8 +1,7 @@
 ```yaml
 nick: Bek,
 from: Tashkent,
-education: "Najot Ta'lim" Java backend,
-interests: {cars, motorcycle, jdm, extreme, technologies};
+education: "Najot Ta'lim" Java backend;
 
 position: Java Software Engineer;
 ```
