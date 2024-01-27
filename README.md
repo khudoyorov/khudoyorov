@@ -2,6 +2,7 @@
 nick: Bek
 from: Tashkent
 education: "Najot Ta'lim" Java backend
+interests: {cars, motorcycle, jdm, extreme, technologies}
 
 position: Java Software Engineer
 ```
